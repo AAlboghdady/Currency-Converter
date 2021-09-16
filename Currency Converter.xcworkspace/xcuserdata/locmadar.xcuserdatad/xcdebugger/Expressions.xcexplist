@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CurrencyConverterViewModel.getCurrency(currencyText:):CurrencyConverterViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Currencies.usd.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrencyConverterViewModel.setupBalance():CurrencyConverterViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "amount.rounded(toPlaces: 2)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrencyConverterVC.collectionView(_:layout:sizeForItemAt:):CurrencyConverterVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.frame.width / 3">
+            </PersistentString>
+            <PersistentString
+               value = "view.frame.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrencyConverterViewModel.setToCurrency(currencyText:):CurrencyConverterViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "toCurrencyBehavior.value">
+            </PersistentString>
+            <PersistentString
+               value = "getCurrency(currencyText: currencyText)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrencyConverterVC.setupGradient():CurrencyConverterVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Int(navigationController?.navigationBar.frame.height ?? 0) + Int(UIApplication.shared.keyWindow?.safeAreaInsets.top ?? 0)">
+            </PersistentString>
+            <PersistentString
+               value = "navigationController?.navigationBar.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
